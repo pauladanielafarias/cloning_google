@@ -1,4 +1,4 @@
-# :google: Buscador de Google - Clon
+# :mag: Google Clone
 
 ### Página web que pretende clonar a la página principal del búscador de Google.
 - La página está en español.
