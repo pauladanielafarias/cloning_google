@@ -3,7 +3,7 @@
 ### Página web que pretende clonar a la página principal del búscador de Google.
 - La página está en español.
 
-#### Web page that pretends to clone to the main page of the Google search engine.
+#### Web page that pretends to clone the main page of the Google search engine.
 - The website is in Spanish.
 
 ### :computer: Tecnologías utilizadas: 
